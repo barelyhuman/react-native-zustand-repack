@@ -2,7 +2,7 @@
 
 If you like any of my work, you can support me on: https://barelyhuman.dev/donate
 
-[![](https://img.shields.io/badge/license-mit-black?style=for-the-badge)](LICENSE)
+[![](https://img.shields.io/badge/license-mit-black?style=for-the-badge)](LICENSE.md)
 
 A simple boilerplate for react native with the following additions
 
@@ -44,4 +44,4 @@ The best way is to fork and raise pull requests for the existing issues and let 
 
 ## License
 
-[MIT](LICENSE) &copy; Reaper
+[MIT](LICENSE.md) &copy; Reaper
