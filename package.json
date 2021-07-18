@@ -1,6 +1,6 @@
 {
   "name": "react-native-zustand-repack",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "React Native Zustand Repack",
   "repository": "git@github.com:barelyhuman/react-native-zustand-repack",
   "author": "Reaper <ahoy@barelyhuman.dev>",
