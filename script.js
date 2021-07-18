@@ -9,6 +9,9 @@ const filesToDelete = [
   "./src/navigators/include",
 ];
 
-filesToDelete.forEach(async (toDelete) => {
-  await rimraf(toDelete);
+filesToDelete.forEach((toDelete) => {
+  rimraf(toDelete, (error) => {
+    if (error) throw error;
+    console.log(`Removed ${toDelete}`);
+  });
 });
