@@ -1,0 +1,23 @@
+{
+  "name": "react-native-zustand-repack",
+  "version": "0.0.10",
+  "description": "React Native Zustand Repack",
+  "repository": "git@github.com:barelyhuman/react-native-zustand-repack",
+  "author": "Reaper <ahoy@barelyhuman.dev>",
+  "license": "MIT",
+  "files": [
+    "template",
+    "script.js",
+    "template.config.js"
+  ],
+  "keywords": [
+    "react-native",
+    "template",
+    "boilerplate",
+    "zustand",
+    "repack"
+  ],
+  "dependencies": {
+    "rimraf": "^3.0.2"
+  }
+}
