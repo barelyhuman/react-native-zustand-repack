@@ -12,6 +12,5 @@ const filesToDelete = [
 filesToDelete.forEach((toDelete) => {
   rimraf(toDelete, (error) => {
     if (error) throw error;
-    console.log(`\nRemoved ${toDelete}`);
   });
 });
