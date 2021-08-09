@@ -1,8 +1,17 @@
 <h1 align="center">react-native-zustand-repack</h1>
 
+<p align="center">
+  The react native base boilerplate for minimalists
+  </p>
+
+<p align="center">
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/license-mit-black?style=flat&amp;colorA=000000&amp;colorB=000000" alt=""></a>
+<a href="https://www.npmjs.com/package/react-native-zustand-repack"><img src="https://img.shields.io/npm/v/react-native-zustand-repack?style=flat&amp;colorA=000000&amp;colorB=000000" alt="Version"></a>
+<a href="https://www.npmjs.com/package/react-native-zustand-repack"><img src="https://img.shields.io/npm/dt/react-native-zustand-repack.svg?style=flat&amp;colorA=000000&amp;colorB=000000" alt="Downloads"></a>
+</p>
+
 If you like any of my work, you can support me on: https://barelyhuman.dev/donate
 
-[![](https://img.shields.io/badge/license-mit-black?style=for-the-badge)](LICENSE.md)
 
 A simple boilerplate for react native with the following additions
 
